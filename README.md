@@ -1,5 +1,7 @@
 # gcon-vm
 
+**Status: ARCHIVED.** Development has moved to [gcon/vm](https://github.com/phonologus/gcon)
+
 The virtual machine for gcon (Go-based Icon), in C. gcon's toolchain, in
 Go, translates Icon 9.5 programs to gcon's bytecode; this VM runs that
 bytecode. It is the counterpart of iconx to gcon's icont, as
